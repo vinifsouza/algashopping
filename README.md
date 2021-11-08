@@ -1,1 +1,1 @@
-# React App
+# AlgaShopping
