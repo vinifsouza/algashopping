@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/algashopping/static/css/main.a2c001fc.chunk.css",
+    "main.js": "/algashopping/static/js/main.c0e83511.chunk.js",
+    "main.js.map": "/algashopping/static/js/main.c0e83511.chunk.js.map",
+    "runtime-main.js": "/algashopping/static/js/runtime-main.574f83eb.js",
+    "runtime-main.js.map": "/algashopping/static/js/runtime-main.574f83eb.js.map",
+    "static/js/2.05cd1f0e.chunk.js": "/algashopping/static/js/2.05cd1f0e.chunk.js",
+    "static/js/2.05cd1f0e.chunk.js.map": "/algashopping/static/js/2.05cd1f0e.chunk.js.map",
+    "index.html": "/algashopping/index.html",
+    "static/css/main.a2c001fc.chunk.css.map": "/algashopping/static/css/main.a2c001fc.chunk.css.map",
+    "static/js/2.05cd1f0e.chunk.js.LICENSE.txt": "/algashopping/static/js/2.05cd1f0e.chunk.js.LICENSE.txt",
+    "static/media/bg.ac0f7137.svg": "/algashopping/static/media/bg.ac0f7137.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.574f83eb.js",
+    "static/js/2.05cd1f0e.chunk.js",
+    "static/css/main.a2c001fc.chunk.css",
+    "static/js/main.c0e83511.chunk.js"
+  ]
+}
